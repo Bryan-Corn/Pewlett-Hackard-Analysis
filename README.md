@@ -39,8 +39,8 @@ The analysis should contain the following:
 
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
-![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
+![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
 
-![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
+![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
 
 

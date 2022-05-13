@@ -40,12 +40,20 @@ A relational database was created using the following ERD to determine the numbe
 
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
-Running the queries included the attached folder, the retiring, current, employees were identifed and the total count of retirees with each current title was compiled into the following table with:
+Running the queries included the attached folder, the retiring, current, employees were identified and the total count of retirees with each current title was compiled into the following table with:
 
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
 
 
-
+Filtering the table above to only those employees born in 1965 gives us a list of people nearing retirement that still have enough time left to share their knowledge and use their experience to pass the torch to the next generation of senior employees:
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.png)
 
+
+From these tables, we can glean the following:
+
+• A total of 90,389 employees are ready for retirement and will need to be replaced
+• 57668 of these retirees are in Senior Staff or Senior Engineer positions
+• 70% of the 1550 employees eligible for mentorship are in these senior positions
+• There are no managers on the list for mentorship eligibility
+• The criteria for mentorship eligibility should be expanded to meet the demand to prepare the next generation to replace the upcoming retirement wave
 

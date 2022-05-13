@@ -49,6 +49,14 @@ Filtering the table above to only those employees born in 1965 gives us a list o
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.png)
 
 
+Please not that duplicates were removed from the table containing all retiring employees as individuals are listed with each title they have obtained during their tenure:
+![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/retiring_dups.png)
+
+
+An additional table was added to show the percentage of each retiring title count:
+![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles_percent.png)
+
+
 From these tables, we can glean the following:
 ```
 • A total of 90,389 employees are ready for retirement and will need to be replaced

@@ -35,3 +35,12 @@ The analysis should contain the following:
      • Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 ## Results
+
+
+[!image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
+
+[!image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
+
+[!image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
+
+

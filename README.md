@@ -36,10 +36,15 @@ The analysis should contain the following:
 
 ## Results
 
+A relational database was created using the following ERD to determine the number of employees that will be retiring in the near future:
 
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
+Running the queries included the attached folder, the retiring, current, employees were identifed and the total count of retirees with each current title was compiled into the following table with:
+
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
+
+
 
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.png)
 

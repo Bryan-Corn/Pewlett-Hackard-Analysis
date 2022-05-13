@@ -50,10 +50,10 @@ Filtering the table above to only those employees born in 1965 gives us a list o
 
 
 From these tables, we can glean the following:
-
+```
 • A total of 90,389 employees are ready for retirement and will need to be replaced
 • 57668 of these retirees are in Senior Staff or Senior Engineer positions
 • 70% of the 1550 employees eligible for mentorship are in these senior positions
 • There are no managers on the list for mentorship eligibility
 • The criteria for mentorship eligibility should be expanded to meet the demand to prepare the next generation to replace the upcoming retirement wave
-
+```

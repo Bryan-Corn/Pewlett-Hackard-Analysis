@@ -21,7 +21,6 @@ Using the ERD you created in this module as a reference and your knowledge of SQ
 ### Deliverable 3: A written report on the employee database analysis
 
 For this part of the Challenge, you’ll write a report to help the manager prepare for the upcoming "silver tsunami."
-
 The analysis should contain the following:
 
   • Overview of the analysis: Explain the purpose of this analysis.

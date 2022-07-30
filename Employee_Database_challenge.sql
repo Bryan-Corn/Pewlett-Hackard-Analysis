@@ -1,5 +1,5 @@
--- Deliverable 1
--- Get number of retiring employees by title.
+-- Deliverable 1 
+-- Get number of retiring employees by title. 
 SELECT	e.emp_no,
 		e.first_name,
 		e.last_name,

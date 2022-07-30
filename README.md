@@ -1,3 +1,4 @@
+![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/HR.png)
 # Pewlett-Hackard-Analysis
 Module 7
 

@@ -50,7 +50,7 @@ Filtering the table above to only those employees born in 1965 gives us a list o
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.png)
 
 
-Please not that duplicates were removed from the table containing all retiring employees as individuals are listed with each title they have obtained during their tenure:
+Please note that duplicates were removed from the table containing all retiring employees as individuals are listed with each title they have obtained during their tenure:
 
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/retiring_dups.png)
 

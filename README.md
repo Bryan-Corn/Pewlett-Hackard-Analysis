@@ -4,7 +4,7 @@ Module 7
 
 ## Overview
 
-Pewlett-Packard needs an analysis on their employee data. Senior management knows they have a lot of people getting close to retirement and they know they need to do something to prepare and put the company in a good position for the future, after these employees leave and take all of their collective institutional knowledge with them. 
+Pewlett-Hackard needs an analysis on their employee data. Senior management knows they have a lot of people getting close to retirement and they know they need to do something to prepare and put the company in a good position for the future, after these employees leave and take all of their collective institutional knowledge with them. 
 
 For this task, there are three deliverables:
 

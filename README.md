@@ -40,7 +40,7 @@ A relational database was created using the following ERD to determine the numbe
 
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
-Running the queries included the attached folder, the retiring, current, employees were identified and the total count of retirees with each current title was compiled into the following table with:
+Running the queries included in the attached folder, the retiring and current employees were identified and the total count of retirees with each current title was compiled into the following table with:
 
 ![image](https://github.com/Bryan-Corn/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
 
